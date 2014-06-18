@@ -3,12 +3,12 @@ update-cache-pentaho 5
 
 ETL Update cache Mondrian, Saiku and CDA
 
-Version PDI: 4.4.0
+Version PDI: 5.0.1
 
-This project clears the cache Pentaho 4.8:
-  Mondrian
-  Saiku
-  CDA
+This project clears the cache Pentaho 5.0.1-stable:
+* Mondrian
+* Saiku
+* CDA
 
 Daniel Albuquerque Rabelo
 programador@danielrabelo.com
