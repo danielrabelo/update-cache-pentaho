@@ -1,4 +1,4 @@
-update-cache-pentaho
+update-cache-pentaho 5
 ======================
 
 ETL Update cache Mondrian, Saiku and CDA
